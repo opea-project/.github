@@ -11,5 +11,5 @@ The OPEA platform includes:
 - A four-step assessment for grading generative AI systems around performance,
   features, trustworthiness, and enterprise-grade readiness
 
-Check out the [LF AI & Data Press Release](https://lfaidata.foundation/blog/2024/04/16/lf-ai-data-foundation-launches-open-platform-for-enterprise-ai-opea-for-groundbreaking-enterprise-ai-collaboration/) and [Intel's blog post](https://www.intel.com/content/www/us/en/developer/articles/news/introducing-the-open-platform-for-enterprise-ai.html).
-
+Read more about OPEA at [opea.dev](https://opea.dev) and explore the OPEA
+technical documentation at [opea-project.github.io](https://opea-project.github.io)
